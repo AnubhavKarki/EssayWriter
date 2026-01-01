@@ -1,0 +1,8 @@
+langchain 
+langchain_openai 
+langchain_core 
+langgraph 
+tavily-python 
+pydantic 
+langsmith 
+langgraph-checkpoint-sqlite
